@@ -1,0 +1,20 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="me.singleNeuron.QQSpeciallyCare">
+
+    <application
+        android:label="QQ特别关心"
+        android:supportsRtl="true"
+        tools:ignore="GoogleAppIndexingWarning,MissingApplicationIcon"
+        android:allowBackup="false">
+    <meta-data
+        android:name="xposedmodule"
+        android:value="true" />
+    <meta-data
+        android:name="xposeddescription"
+        android:value="QQ特别关心通知单独分组" />
+    <meta-data
+        android:name="xposedminversion"
+        android:value="82" />
+    </application>
+</manifest>
