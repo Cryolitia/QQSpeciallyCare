@@ -4,6 +4,8 @@
 
 **声明：本软件基于Android Open Source Project开发，未对腾讯公司的任何软件进行任何逆向分析或修改。即，本软件修改了Android系统处理通知的方式而非QQ发出通知的方式。**
 
+该项目已被[锁定通知](https://github.com/singleNeuron/LockNotification)取代，请在锁定通知中使用以下配置：https://github.com/singleNeuron/LockNotification/wiki/QQ特别关心配置示例
+
 欢迎加入某些不靠谱插件交流群：951343825
 
 Telegram Channel/Group: https://t.me/NeuronDevelopChannel
